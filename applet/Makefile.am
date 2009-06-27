@@ -8,7 +8,7 @@ VALASOURCES = \
 	applet.vala \
 	main.vala \
 	gtkextra-gconfdialog.vala \
-	switcher.vala \
+	launcher.vala \
 	template.vala \
 	workspaceselector.vala \
 	$(NULL)
